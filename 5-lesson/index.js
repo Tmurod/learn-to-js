@@ -62,7 +62,7 @@
 // let text = `${num} is prime number`;
 // for (let i = 2; i < num; i++) {
 //     if (num % i == 0) {
-//         text = `${num} is not prime number`
+//         text = `${num} is not a prime number`
 //     }
 // }
 // console.log(text);
