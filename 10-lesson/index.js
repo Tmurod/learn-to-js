@@ -73,4 +73,4 @@
 // }
 // getUpper("Webbrain");
 
-// bu misolda agar "function parametr" ga qandaydir katta harfli ma'lumot lelsa ushani ajratib olish yechimi keltirilgan ya'ni "loop" orqali aylanib "toUpperCase" Methodi orqali har birini taqqoslab ajratib olamiz va bitta "variable" ga tenglab quyamiz.
+// bu misolda agar "function parametr" ga qandaydir katta harfli ma'lumot лelsa ushani ajratib olish yechimi keltirilgan ya'ni "loop" orqali aylanib "toUpperCase" Methodi orqali har birini taqqoslab ajratib olamiz va bitta "variable" ga tenglab quyamiz.
